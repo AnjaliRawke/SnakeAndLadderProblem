@@ -81,6 +81,5 @@ public class SnakeAndLadderSimulator {
 			System.out.println("Second Player Rolled Dice "+count2+" times");
 			System.out.println("second Player won");
 		}
-
 	}
 }
